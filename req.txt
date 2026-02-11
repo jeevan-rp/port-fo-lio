@@ -1,0 +1,3 @@
+header with logo with nav bar - Home about Us Project Achivements Contact
+Body - Nale Role about Me Education project Achivements Contact
+With single page using ID and Section
